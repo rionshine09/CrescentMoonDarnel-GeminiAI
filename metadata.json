@@ -1,0 +1,7 @@
+{
+  "name": "Cress - The Satellite Hacker",
+  "description": "A conversational AI interface emulating Cress from The Lunar Chronicles, featuring real-time voice chat and deep reasoning capabilities.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
